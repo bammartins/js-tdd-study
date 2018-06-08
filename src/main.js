@@ -4,4 +4,5 @@ function x() {
   return a;
 }
 
+0
 x();
